@@ -30,5 +30,5 @@ Vishesh – Team Leader
 Utkarsh – Backend Developer  
 Swayam – Frontend Developer  
 Satwik – Database Engineer  
-Topi – AI/ML Engineer  
+Shashwat – AI/ML Engineer  
 Tejal – Documentation & Testing
